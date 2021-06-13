@@ -3,7 +3,7 @@
 Made during fourth semester of my studies at Kaunas University of Applied Sciences.<br/>
 
 Themoviedb API.<br/>
-🔗 [API](https://developers.themoviedb.org/3)<br/>
+🔗 [API docs](https://developers.themoviedb.org/3)<br/>
 
 ***Mobile App ->*** React<br/>
 ***Backend ->*** API<br/>
